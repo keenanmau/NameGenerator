@@ -1,0 +1,6 @@
+D:\Salence\Documents\Visual Studio 2017\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe.config
+D:\Salence\Documents\Visual Studio 2017\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.exe
+D:\Salence\Documents\Visual Studio 2017\Projects\NameGenerator\NameGenerator\bin\Debug\NameGenerator.pdb
+D:\Salence\Documents\Visual Studio 2017\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.exe
+D:\Salence\Documents\Visual Studio 2017\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.pdb
+D:\Salence\Documents\Visual Studio 2017\Projects\NameGenerator\NameGenerator\obj\Debug\NameGenerator.csprojResolveAssemblyReference.cache
